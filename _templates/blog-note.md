@@ -3,9 +3,11 @@ title: ""
 date: {{date}} {{time}}
 categories: []
 tags: []
-image: ""
+image:
+  path: ""
+  alt: ""
 ---
-<div style="text-align: justify;" markdown="1">
+
 # Introduction
 
 Write the opening here.
@@ -29,5 +31,3 @@ Summarize the main lesson in practical terms.
 # What's Next?
 
 Close with the next thing to study, test, improve, or publish.
-
-</div>

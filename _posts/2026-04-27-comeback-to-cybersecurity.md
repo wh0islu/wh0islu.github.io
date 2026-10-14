@@ -1,13 +1,13 @@
 ---
 title: "Coming Back to Cybersecurity"
+description: "Why I'm returning to cybersecurity alongside full-stack development and ML/AI studies, plus my plan with PortSwigger and Hack The Box labs."
 date: 2026-04-27 20:56:31 -0400
 categories: [Security]
-tags: [Security]
+tags: [security]
 image:
-  path: https://i.pinimg.com/originals/12/b2/3a/12b23a7752e8a7a4464c1ff5e596237f.gif
+  path: /assets/img/posts/covers/comeback-to-cybersecurity.gif
+  alt: "Coming Back to Cybersecurity"
 ---
-
-<div style="text-align: justify;" markdown="1">
 
 # Introduction
 
@@ -38,9 +38,3 @@ Security+, CySA+, and other certifications that can help me build a stronger fou
 On the practical side, I plan to spend more time doing labs on PortSwigger Web Security Academy and Hack The Box. I think combining theory, certifications, and hands-on practice is the best way to improve for real.
 
 My goal is not to rush. I want to build consistency again, document what I learn, and use this blog as a public notebook for the process.
-
-----
-
-<img src="/assets/img/posts/Written-By-a-Human-Not-By-AI-Badge-white.png" alt="Written By A Human Not By AI">
-<img src="/assets/img/posts/Written-By-a-Human-Not-By-AI-Badge-black.png" alt="Written By A Human Not By AI">
-</div>

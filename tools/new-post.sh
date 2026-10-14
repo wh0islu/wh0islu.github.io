@@ -39,6 +39,7 @@ mkdir -p _posts
   echo "tags: [$tags]"
   echo "image:"
   echo "  path: $image"
+  echo "  alt: \"$title\""
   echo "---"
   echo
   echo "# Introduction"

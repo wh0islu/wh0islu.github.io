@@ -1,12 +1,13 @@
 ---
 title: "Local MLflow Setup with Poetry and Taskipy"
+description: "A practical guide to setting up and running MLflow in a local machine learning project using Poetry for dependencies and Taskipy for task automation."
 date: 2026-04-27 20:48:55 -0400
-categories: [ML-IA]
-tags: [MLflow, ML-IA, Python]
+categories: [AI/ML]
+tags: [mlflow, python, mlops]
 image:
-  path: https://i.pinimg.com/originals/5a/a8/69/5aa869da340cbf31e3570f19ea3452a6.gif
+  path: /assets/img/posts/covers/mlflow-setup.gif
+  alt: "Local MLflow Setup with Poetry and Taskipy"
 ---
-<div style="text-align: justify;" markdown="1">
 
 # Introduction
 
@@ -340,10 +341,3 @@ later.
 
 - [MLflow Tracking Quickstart](https://mlflow.org/docs/latest/ml/getting-started/quickstart/)
 - [MLflow Documentation](https://mlflow.org/docs/latest/)
-
-----
-
-<img src="/assets/img/posts/Written-By-a-Human-Not-By-AI-Badge-white.png" alt="Written By A Human Not By AI">
-<img src="/assets/img/posts/Written-By-a-Human-Not-By-AI-Badge-black.png" alt="Written By A Human Not By AI">
-
-</div>

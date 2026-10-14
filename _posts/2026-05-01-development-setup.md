@@ -1,18 +1,14 @@
 ---
 title: "My Development Setup"
-date: 2026-05-02 00:22
-categories:
-  - Developer
-tags:
-  - Developer
-  - Python
-  - Poetry
-  - React
-  - Tooling
-image: https://i.pinimg.com/originals/92/98/b8/9298b8aa90e9bc71a6162878ee24cbeb.gif
+description: "My personal development environment for full-stack and ML/AI work: Python, Poetry, Django, FastAPI, React, editors, and automation tooling."
+date: 2026-05-02 00:22:00 -0400
+categories: [Developer]
+tags: [python, poetry, react, tooling]
+image:
+  path: /assets/img/posts/covers/development-setup.gif
+  alt: "My Development Setup"
 ---
 
-<div style="text-align: justify;" markdown="1">
 # Introduction
 
 This post is my personal development setup guide.
@@ -742,10 +738,3 @@ The goal is not to make the setup complex. The goal is to make it repeatable.
 - [ ] Project commands documented
 
 This is my base development setup. I can extend it depending on the project, but this gives me a solid starting point for Python, backend, frontend, and MLOps-related work.
-
-----
-
-<img src="/assets/img/posts/Written-By-a-Human-Not-By-AI-Badge-white.png" alt="Written By A Human Not By AI">
-<img src="/assets/img/posts/Written-By-a-Human-Not-By-AI-Badge-black.png" alt="Written By A Human Not By AI">
-
-</div>
